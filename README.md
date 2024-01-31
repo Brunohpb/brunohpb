@@ -26,8 +26,8 @@ I'm Bruno Barbosa, a passionate software engineer specializing in infrastructure
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/bruno-henrique-parreira-barbosa-8b8b32164/))
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?&logo=twitter&logoColor=white)]([https://twitter.com/yourtwitterhandle](https://twitter.com/Bruno_9912))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-henrique-parreira-barbosa-8b8b32164/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?&logo=twitter&logoColor=white)](https://twitter.com/Bruno_9912)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?)](https://yourportfolio.com)
 
 ## 📊 GitHub Stats
