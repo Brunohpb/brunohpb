@@ -18,6 +18,7 @@ I'm Bruno Barbosa, a passionate software engineer specializing in infrastructure
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=white)](link-to-linux)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=windows&logoColor=white)](link-to-windows)
 [![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white)](link-to-python)
+[![Ansible](https://img.shields.io/badge/-Ansible-EE0000?&logo=ansible&logoColor=white)](link-to-ansible)
 
 ## 🚀 My Projects
 
