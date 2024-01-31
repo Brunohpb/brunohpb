@@ -32,7 +32,7 @@ I'm Bruno Barbosa, a passionate software engineer specializing in infrastructure
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunohpb&show_icons=true&hide_title=true&hide_border=true)
 
 
 ## 🎉 Fun Facts
