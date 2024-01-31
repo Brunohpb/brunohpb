@@ -4,7 +4,7 @@ I'm Bruno Barbosa, a passionate software engineer specializing in infrastructure
 
 ## 🧑‍💻 About Me
 
-- 💼 Currently working at [BB Tecnologia e Serviços] as an Infrastructure Security Engineer.
+- 💼 Currently working at BB Tecnologia e Serviços as an Infrastructure Security Engineer.
 - 🌱 Always learning in the field of infrastructure and exploring new technologies.
 - 💡 Passionate about developing services for security and tackling challenges in the security domain.
 - 🎓 Graduated in Computer Science.
